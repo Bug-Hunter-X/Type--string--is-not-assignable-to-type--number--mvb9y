@@ -1,0 +1,1 @@
+This repo contains a demonstration of a common type error in TypeScript and its solution.  The error arises from attempting to assign a string value to a number type. The solution involves carefully checking and correcting the type assignments.
